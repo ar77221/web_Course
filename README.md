@@ -2,3 +2,7 @@
 
 ## Hello World
 for web zero course
+<DOCTYPE html>
+
+
+</html>
