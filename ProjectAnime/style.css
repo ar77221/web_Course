@@ -1,0 +1,45 @@
+body {
+
+          margin:0;
+          font-family: 'Roboto', sans-serif;
+}
+  
+      .header {
+         background-color: #0171f9;
+         display: flex;
+         justify-content:space-between;
+         align-items: center;
+         padding:10px 50px;
+}
+
+       .logo {
+          width: 100px;
+}
+
+       .btn {
+        background-color:#ff0202;
+        border-radius: 15px;
+        padding: 5px 15px;
+        color: white;
+        border: none;
+
+}
+
+        .btn:hover {
+          background-color:#ff7878;
+}
+
+         .header-links a {
+          color: white;
+          padding: 5px 15px;
+          text-decoration: none;
+          border-radius: 15px;
+
+}
+
+         .header-links a:hover {
+          background-color: #6e8ff3;
+
+
+}
+
